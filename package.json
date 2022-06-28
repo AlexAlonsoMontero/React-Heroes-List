@@ -1,11 +1,8 @@
 {
-  "homepage": "https://AlexAlonsoMontero.github.io/AlexAlonsoMontero-React-Boostrap-HeroesList",
   "name": "heroes-spa",
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
